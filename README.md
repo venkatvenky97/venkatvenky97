@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/venkate68292565" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="venkate68292565" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/venkatesh g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="venkatesh g" height="30" width="40" /></a>
-<a href="https://fb.com/venkat.venky.77920526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="venkat.venky.77920526" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/venkat_ganapathy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/venkat_ganapathy/" height="30" width="40" /></a>
+<a href="https://twitter.com/venkate68292565" target="blank"><img align="center" src="https://raw.githubusercontent.com/venkate68292565/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="venkate68292565" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/venkatesh g" target="blank"><img align="center" src="https://raw.githubusercontent.com/venkatesh g/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="venkatesh g" height="30" width="40" /></a>
+<a href="https://fb.com/venkat.venky.77920526" target="blank"><img align="center" src="https://raw.githubusercontent.com/venkat.venky.77920526/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="venkat.venky.77920526" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/venkat_ganapathy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/venkat_ganapathy/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/venkat_ganapathy/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
