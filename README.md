@@ -1,4 +1,4 @@
-<h1 align="center">Hi there,I'm VenkatVenky97👋</h1>
+<h1 align="center">Hi there,I'm Venkatesh👋</h1>
 <h3 align="center">A passionate frontend developer,backend developer and full stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatvenky97&label=Profile%20views&color=000000&style=flat-square" alt="venkatvenky97" /> </p>
