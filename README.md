@@ -1,5 +1,5 @@
 <h1 align="center">Hi there,I'm Venkatesh👋</h1>
-<h3 align="center">A passionate frontend developer,backend developer and full stack developer</h3>
+<h3 align="center"><i>A passionate frontend developer,backend developer and full stack developer</i></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatvenky97&label=Profile%20views&color=000000&style=flat-square" alt="venkatvenky97" /> </p>
 
@@ -11,9 +11,11 @@
 
 - 🤝 I’m looking for help with **github**
 
-- 💬 Ask me about **javascript react js**
+- 💬 Ask me about **new things**
 
 - 📫 How to reach me **virathvenkatesh@gmail.com**
+
+- ⚡ Fun fact **night time cup☕of coffee in beach😂*
 
 
 <h3 align="left">Languages and Tools:</h3>
