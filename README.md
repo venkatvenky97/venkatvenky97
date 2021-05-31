@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **vs code**
 
-- 🌱 I’m currently learning **vue js**
+- 🌱 I’m currently learning **Typescript**
 
 - 🤝 I’m looking for help with **github**
 
