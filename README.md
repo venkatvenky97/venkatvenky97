@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **vs code**
 
-- 🌱 I’m currently learning **JWT**
+- 🌱 I’m currently learning **AWS**
 
 - 🤝 I’m looking for help with **github**
 
