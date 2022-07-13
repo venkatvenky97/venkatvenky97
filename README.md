@@ -7,8 +7,7 @@
 <img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />
 
 
-
-
+<br>
 - 🔭 I’m currently working on **vs code**
 
 - 🌱 I’m currently learning **AWS**
