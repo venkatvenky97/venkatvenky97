@@ -6,7 +6,7 @@
 
 <a href="https://www.linkedin.com/in/know-venkatesh-g/"><img align="left" alt="know-venkatesh-g | LinkedIn" width="22px" src="./linkedin.svg" /></a>
 <a href="https://twitter.com/Venkate68292565?t=9haRp2K-QHASCmKFbPnN7w&s=09"><img align="left" alt="Venkate68292565 | Twitter" width="22px" src="./twitter.svg" /></a>
-<a href=""><img align="left" alt="virathvenkatesh | Gmail" width="22px" src="./gmail.svg" /></a>
+<a href="https://mail.google.com/mail/u/"><img align="left" alt="virathvenkatesh | Gmail" width="22px" src="./gmail.svg" /></a>
 
 
 <br>
