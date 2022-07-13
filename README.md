@@ -5,8 +5,8 @@
 <img src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" style="max-width:500%;" width="500" align="right" padding="20px" />
 
 <a href="https://www.linkedin.com/in/know-venkatesh-g/"><img align="left" alt="know-venkatesh-g | LinkedIn" width="22px" src="./linkedin.svg" /></a>
-<img align="left" alt="Venkate68292565 | Twitter" width="22px" src="./twitter.svg" />
-<img align="left" alt="virathvenkatesh | Gmail" width="22px" src="./gmail.svg" />
+<a href="https://twitter.com/Venkate68292565?t=9haRp2K-QHASCmKFbPnN7w&s=09"><img align="left" alt="Venkate68292565 | Twitter" width="22px" src="./twitter.svg" /></a>
+<a href=""><img align="left" alt="virathvenkatesh | Gmail" width="22px" src="./gmail.svg" /></a>
 
 
 <br>
