@@ -1,45 +1,74 @@
-<h1 align="center">Hi there,I'm Venkatesh👋</h1>
- 
-<h3 align="center"><i>A passionate frontend developer,backend developer and full stack developer</i></h3><p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatvenky97&label=Profile%20views&color=000000&style=flat-square" alt="venkatvenky97" /> </p>
+<h1 align="center">Hi there, I'm Venkatesh G 👋</h1>
 
-<img src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" data-canonical-src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" style="max-width:500%;" width="500" align="right" padding="20px" />
+<p align="center">
+  <em>Full Stack AI Engineer · React · Python · FastAPI · LLM Pipelines · AWS</em>
+</p>
 
-<a href="https://www.linkedin.com/in/know-venkatesh-g/"><img align="left" alt="know-venkatesh-g | LinkedIn" width="22px" src="./linkedin.svg" /></a>
-<a href="https://twitter.com/Venkate68292565?t=9haRp2K-QHASCmKFbPnN7w&s=09"><img align="left" alt="Venkate68292565 | Twitter" width="22px" src="./twitter.svg" /></a>
-<a href="https://mail.google.com/mail/u/"><img align="left" alt="virathvenkatesh | Gmail" width="22px" src="./gmail.svg" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=venkatvenky97&label=Profile%20views&color=6c63ff&style=flat" alt="profile views" />
+</p>
 
+---
 
-<br>
+### 🚀 About Me
 
+- 🔭 Currently at **Xerago** — building AI-powered full-stack platforms
+- 🤖 Working with **LLMs (Ollama, Qwen2.5), FAISS, Vanna AI** for NLP-to-SQL systems
+- ⚛️ Building production apps with **React.js, FastAPI, Python, AWS**
+- 🧠 Hands-on with **Agentic AI workflows, RAG pipelines, Semantic Search**
+- 📫 Reach me at **virathvenkatesh@gmail.com**
+- 🌐 Portfolio: [venkateshdev.netlify.app](https://venkateshdev.netlify.app)
+- ⚡ Fun fact: *night time cup ☕ of coffee on the beach 😄*
 
-- 🔭 I’m currently working on **vs code**
+---
 
-- 🌱 I’m currently learning **AWS**
+### 🛠️ Tech Stack
 
-- 🤝 I’m looking for help with **github**
+**Languages**
 
-- 💬 Ask me about **new things**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-- 📫 How to reach me **virathvenkatesh@gmail.com**
+**Frontend**
 
-- ⚡ Fun fact **night time cup☕of coffee in beach😂* 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
+**Backend & AI**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
-### Languages and Tools:
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Redux-Toolkit](https://img.shields.io/badge/-Reduxtoolkit-black?style=flat-square&logo=Redux-toolkit)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![TypesScript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+**Cloud & Tools**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **ClickInsights Lite** | NLP-to-SQL analytics platform with FAISS semantic search | React, FastAPI, Ollama, FAISS |
+| **Scoutigo** | AI recruitment platform with agentic interview workflows | React, FastAPI, LLM, Agent Orchestration |
+| **Accelerator XDR** | Analytics & validation dashboard for digital tracking | React, TypeScript, FastAPI, Tailwind |
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkateshganapathy-g)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:virathvenkatesh@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-6c63ff?style=flat&logo=netlify&logoColor=white)](https://venkateshdev.netlify.app)
