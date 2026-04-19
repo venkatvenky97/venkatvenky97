@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Venkatesh G 👋</h1>
 
 <p align="center">
-  <em>Full Stack AI Engineer · React · Python · FastAPI · LLM Pipelines · AWS</em>
+  <em>Full Stack Engineer · React · Python · FastAPI · LLM Pipelines · AWS</em>
 </p>
 
 <p align="center">
@@ -17,7 +17,6 @@
 - ⚛️ Building production apps with **React.js, FastAPI, Python, AWS**
 - 🧠 Hands-on with **Agentic AI workflows, RAG pipelines, Semantic Search**
 - 📫 Reach me at **virathvenkatesh@gmail.com**
-- 🌐 Portfolio: [venkateshdev.netlify.app](https://venkateshdev.netlify.app)
 - ⚡ Fun fact: *night time cup ☕ of coffee on the beach 😄*
 
 ---
