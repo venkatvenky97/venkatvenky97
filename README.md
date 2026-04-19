@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently at **Xerago** — building AI-powered full-stack platforms
+- 🔭 Currently at **Xerago** - building AI-powered full-stack platforms
 - 🤖 Working with **LLMs (Ollama, Qwen2.5), FAISS, Vanna AI** for NLP-to-SQL systems
 - ⚛️ Building production apps with **React.js, FastAPI, Python, AWS**
 - 🧠 Hands-on with **Agentic AI workflows, RAG pipelines, Semantic Search**
